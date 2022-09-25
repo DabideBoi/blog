@@ -4,7 +4,6 @@ date: 2022-09-25T11:50:51+08:00
 draft: true
 thumbnail: "https://scontent.fmnl8-3.fna.fbcdn.net/v/t1.15752-9/300226199_786565812397792_6378670515252516563_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=h4y8QXzcDrkAX9sNRW_&_nc_ht=scontent.fmnl8-3.fna&oh=03_AVLA2KMMG3sUG8SV3cP2AGm58RWHkacuplLLTt80Cjf8TA&oe=6354C915"
 ---
-# Switch to Firefox
 ---
 I have always been a privacy ever since I got in to computer science and found out how the industry work. That is why I love Firefox for it's open-source nature. No trackers, no telemetry, and the code is publicly avaiable to view for users to check if there are malicious codes in there. But with the recent uproar of the new updates for Google Chrome, you might think Firefox will be the browser for you. 
 
@@ -22,7 +21,7 @@ Besides being annoyance to us, ads work even if you think they don't. Global adv
 ## What should you do?
 Google's ability to push changes like this relies on their quasi-monopoly in the browser space and will impact the majority of internet users.
 
-![[Pasted image 20220925125449.png]]
+![Statistics](https://scontent.fmnl8-2.fna.fbcdn.net/v/t1.15752-9/304956943_5354732694643108_4005238764700770277_n.png?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=uukcE9mKfwsAX_p1mce&tn=v5OvBrYjXzv5FgQx&_nc_ht=scontent.fmnl8-2.fna&oh=03_AVLJcu3NzYeqIIo-0twVFqhaFfoPetUv65NxBuEbKIIwzQ&oe=63576EA6)
 [^]: Statistics from W3Counter Web Browser Market Share August 2022
 
 Developing browsers is expensive and complicated. This means that both that we won't see any truly new browsers emerge from any of this and that changing a Chromium derivative enough to truly stave off Google's influence is impossible.
