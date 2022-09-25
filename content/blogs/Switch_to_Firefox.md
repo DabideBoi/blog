@@ -21,9 +21,6 @@ Besides being annoyance to us, ads work even if you think they don't. Global adv
 ## What should you do?
 Google's ability to push changes like this relies on their quasi-monopoly in the browser space and will impact the majority of internet users.
 
-![Statistics](https://scontent.fmnl8-2.fna.fbcdn.net/v/t1.15752-9/304956943_5354732694643108_4005238764700770277_n.png?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=uukcE9mKfwsAX_p1mce&tn=v5OvBrYjXzv5FgQx&_nc_ht=scontent.fmnl8-2.fna&oh=03_AVLJcu3NzYeqIIo-0twVFqhaFfoPetUv65NxBuEbKIIwzQ&oe=63576EA6)
-[^]: Statistics from W3Counter Web Browser Market Share August 2022
-
 Developing browsers is expensive and complicated. This means that both that we won't see any truly new browsers emerge from any of this and that changing a Chromium derivative enough to truly stave off Google's influence is impossible.
 
 Thus, Chromium derivatives uphold Google's quasi-monopoly and might be unable to find a way around future changes with a similar direction. Even if they find a way around this current change; Brave, Vivaldi, Edge, Opera are all derivatives of Chromium.
