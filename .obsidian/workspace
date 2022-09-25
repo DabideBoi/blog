@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "a0be1bcd1b7d8881",
+    "id": "fcdde9a9f043b23e",
     "type": "split",
     "children": [
       {
-        "id": "b92b3dc95a8bf26e",
+        "id": "14ad1c3f54e5778e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "blogs/First_Blog.md",
+            "file": "content/blogs/Switch_to_Firefox.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "32c2945db8128996",
+    "id": "1cb6f87129d3fad8",
     "type": "split",
     "children": [
       {
-        "id": "ab0bad30aa790ed2",
+        "id": "d6444ca5f221f654",
         "type": "tabs",
         "children": [
           {
-            "id": "4b05265a2a473f9d",
+            "id": "4031855656d30362",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "aa21ef5db46c0970",
+            "id": "c520746212c2077b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "9a9aa940eca31854",
+            "id": "a769702636e52879",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,20 +64,20 @@
     "width": 300
   },
   "right": {
-    "id": "d8b449252b6dd2df",
+    "id": "2b6044201fbccc8d",
     "type": "split",
     "children": [
       {
-        "id": "94c4f5b3b07baf9d",
+        "id": "7ccf1a28cb0aaf5a",
         "type": "tabs",
         "children": [
           {
-            "id": "279a2f7fdcd1924d",
+            "id": "ee22bb00c51f6461",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/First_Blog.md",
+                "file": "content/blogs/Switch_to_Firefox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,19 +89,19 @@
             }
           },
           {
-            "id": "606f54dafcea2670",
+            "id": "b23301f9144e502d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/First_Blog.md",
+                "file": "content/blogs/Switch_to_Firefox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "489e229ed396c34b",
+            "id": "77f2d0a792e21a4d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,12 +112,12 @@
             }
           },
           {
-            "id": "8b5598e096f88b90",
+            "id": "334feaba7d168592",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/First_Blog.md"
+                "file": "content/blogs/Switch_to_Firefox.md"
               }
             }
           }
@@ -128,11 +128,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b92b3dc95a8bf26e",
+  "active": "14ad1c3f54e5778e",
   "lastOpenFiles": [
-    "blogs/Switch_to_Firefox.md",
-    "blogs/First_Blog.md",
-    "public/Switch_to_Firefox/image2.png.md",
-    "static/Switch_to_Firefox/image2.png.md"
+    "content/blogs/First_Blog.md"
   ]
 }
