@@ -1,7 +1,7 @@
 ---
 title: "Android Apps I Want to Check Out"
 date: 2023-09-01T14:09:29+08:00
-draft: true
+draft: false
 ---
 
 I really prefer using Android rather than iOS in general. As Android provide more versatility in its applications and functionality. Being a programmer and avid Linux Ricer (well sorta). I really like Android and here some of the apps that made me stay.
