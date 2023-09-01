@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://github.com/DabideBoi/blog"
 title        = "David Yabis"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -52,4 +52,4 @@ paginate     = 10
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "blog/posts/"
+    url        = "posts/"
