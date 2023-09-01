@@ -1,4 +1,4 @@
-baseurl: "https://DabideBoi.github.io/blog"
+baseurl: "/blog"
 disablePathToLower: true
 title        = "David Yabis"
 languageCode = "en-us"
