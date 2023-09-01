@@ -1,4 +1,5 @@
-baseurl      = "https://github.com/DabideBoi/blog"
+baseurl: "https://DabideBoi.github.io/blog"
+disablePathToLower: true
 title        = "David Yabis"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
