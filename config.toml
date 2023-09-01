@@ -43,7 +43,7 @@ paginate     = 10
 
     [languages.en.params.logo]
       logoText = "David Yabis"
-      logoHomeLink = "/"
+      logoHomeLink = "/blog"
     # or
     #
     # path = "/img/your-example-logo.svg"
@@ -53,4 +53,4 @@ paginate     = 10
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "posts/"
+    url        = "blog/posts/"
