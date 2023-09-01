@@ -1,5 +1,5 @@
 baseurl = "localhost/blog"
-disablePathToLower: true
+disablePathToLower = true
 title        = "David Yabis"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
